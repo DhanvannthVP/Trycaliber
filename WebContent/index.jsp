@@ -15,6 +15,6 @@
       </tr>
     </table>
 
-    <p>This is the home page for the Web application. </p>
+    <p> Web application. </p>
       </body>
 </html>
