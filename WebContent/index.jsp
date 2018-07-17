@@ -15,6 +15,5 @@
       </tr>
     </table>
 
-    <p> Web application </p>
       </body>
 </html>
