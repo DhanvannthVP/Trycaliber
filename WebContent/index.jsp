@@ -10,7 +10,7 @@
           <img src="images/springsource.png">
         </td>
         <td>
-          <h1>Hello!! Implementing case-studies in jenkins through Case-a-thon!!</h1>
+          <h1>Hi!! Implementing case-studies in jenkins through Case-a-thon!!</h1>
         </td>
       </tr>
     </table>
