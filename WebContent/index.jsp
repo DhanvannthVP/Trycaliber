@@ -15,6 +15,6 @@
       </tr>
     </table>
 
-    <p> Web application. </p>
+    <p> Web application pgm. </p>
       </body>
 </html>
